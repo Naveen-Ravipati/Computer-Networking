@@ -6,3 +6,8 @@ Notes of "Bits and Bytes of Computer Networking" Coursera Course
 >+ Basics of Networking Devices
 >+ Physical Layer
 >+ Data Link Layer
+
+## [Week2](Week2.md)
+>+ The Network Layer
+>+ Subnetting
+>+ Routing
