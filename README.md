@@ -11,3 +11,8 @@ Notes of "Bits and Bytes of Computer Networking" Coursera Course
 >+ The Network Layer
 >+ Subnetting
 >+ Routing
+
+## [Week3](Week3.md)
+>+ Introduction to Transport Layer
+>+ The Transport Layer
+>+ Application Layer
